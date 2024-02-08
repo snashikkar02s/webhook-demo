@@ -333,8 +333,8 @@ modules = [
 ]
 
 [[package]]
-org = "sarindas"
-name = "asgardeotest"
+org = "colorconDev"
+name = "loginEvent"
 version = "0.1.0"
 dependencies = [
 	{org = "ballerina", name = "http"},
@@ -343,6 +343,6 @@ dependencies = [
 	{org = "ballerinax", name = "trigger.asgardeo"}
 ]
 modules = [
-	{org = "sarindas", packageName = "asgardeotest", moduleName = "asgardeotest"}
+	{org = "colorconDev", packageName = "loginEvent", moduleName = "loginEvent"}
 ]
 

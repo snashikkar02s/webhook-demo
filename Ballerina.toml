@@ -3,7 +3,7 @@
 
 [package]
   distribution = "2201.8.3"
-  name = "asgardeotest"
-  org = "sarindas"
+  name = "loginEvent"
+  org = "colorconDev"
   version = "0.1.0"
 
